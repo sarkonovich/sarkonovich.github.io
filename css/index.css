@@ -1,114 +1,112 @@
 .text-3 span:hover{font-style:italic;}
 
-.text-4 span:hover{font-size:NaNem;}
+body{background-color:rgb(255, 255, 255);font:400 1em/1.38 Helvetica;color:rgb(0, 0, 0);}
 
-body{background-color:rgb(101, 170, 224);font:400 1em/1.38 Helvetica;color:rgb(0, 0, 0);}
+.album_or_artist{float:left;clear:both;width:64.3690834767%;min-height:28px;margin:121px 0 0 10%;font-size:1em;font-weight:400;line-height:1.38;color:rgb(0, 0, 0);}
 
-.footer{position:fixed;bottom:-18px;left:-2%;z-index:40;width:102%;height:81px;padding:17px;border-top:1px solid rgb(0, 0, 0);background-color:rgba(101, 170, 224, 0.98);}
+.collage{position:absolute;top:0;left:0;z-index:15;width:100%;height:404px;border:2px solid rgb(0, 0, 0);background:url('../images/albums.jpg') rgb(222, 222, 222);background-size:1280px 853.5px;background-position:left top;opacity:0.75;}
 
-.footer .element{float:left;clear:both;}
+.footer .element{float:left;clear:both;width:103.9627039627%;height:2px;margin:1px 0 0 -1.97434%;background-color:rgb(255, 32, 25);}
 
-.footer .text{float:left;}
+.footer .footer{position:relative;float:left;clear:both;z-index:35;width:103.9627039627%;height:2px;margin:4px 0 0 -1.97434%;background-color:rgb(255, 32, 25);}
 
-.header{position:relative;float:left;z-index:24;width:126.8055555555%;height:286px;margin:-57px 0 0 -13.22049%;border-bottom:1px solid rgb(0, 0, 0);background-color:rgb(101, 170, 224);box-shadow:0 2px 5px rgba(0, 0, 0, .5);}
+.footer .text{font-size:1em;}
 
-.houseband{position:fixed;top:0;left:0;z-index:32;width:100%;height:228px;border-bottom:1px solid rgb(38, 121, 185);}
+.houseband{position:absolute;top:-6px;left:0;z-index:29;width:100%;height:486px;border-bottom:1px solid rgb(38, 121, 185);background-color:rgb(101, 170, 224);}
 
-.houseband .text{position:relative;float:left;font-weight:400;}
+.houseband .element{position:relative;float:left;z-index:24;width:100%;height:337px;margin-top:45px;background:url('../images/blueechoimage.jpg') rgb(101, 170, 224);background-repeat:no-repeat;background-size:480px 270px;background-position:left center;}
 
-.image{display:block;position:relative;float:left;height:auto;overflow:hidden;}
+.integration{position:relative;float:left;clear:both;z-index:27;width:31.5555555555%;height:38px;margin:-38px 0 0 33.88889%;font-size:1em;font-weight:400;text-align:center;color:rgb(0, 0, 0);}
 
-.justask{position:relative;float:left;z-index:23;width:100%;height:600px;margin-top:230px;}
+.justask{position:relative;float:left;z-index:23;width:100%;height:1101px;margin-top:475px;background-color:rgb(255, 255, 255);}
 
-.justask .element{position:absolute;top:371px;left:0;z-index:22;width:100%;height:229px;background:url('../images/Concert-Crowd-shutterstock_126363107.jpg') rgb(222, 222, 222);background-size:500px 333.5px;background-position:center bottom;box-shadow:0 2px 5px rgba(0, 0, 0, .5);opacity:0.49;}
+.justask .element{background-color:rgb(222, 222, 222);}
 
-.justask .text{float:left;font-weight:400;}
+.justask .text{font-weight:400;}
 
-.link{display:block;float:left;clear:both;width:62.1874999999%;min-height:21px;margin:12px 0 0 21.01042%;font:300 1em/1.38 Roboto;text-decoration:underline;color:rgb(0, 0, 0);}
+.key_words{float:left;clear:both;width:80%;min-height:28px;margin:102px 0 0 10%;font-size:1em;font-weight:400;line-height:1.38;color:rgb(0, 0, 0);}
+
+.link{display:block;position:relative;float:left;z-index:19;width:69.5555555555%;min-height:21px;margin:118px 0 0 1.10764%;font:500 0.938em/1.38 Raleway;text-transform:uppercase;color:rgb(20, 66, 101);}
 
 .link:hover{font-style:italic;}
 
-.playlist{position:relative;float:left;clear:both;z-index:5;width:100%;height:435px;margin-top:352px;}
+.logo{display:block;position:absolute;top:115px;right:45.8888888888%;z-index:28;width:57px;height:auto;overflow:hidden;}
 
-.playlist .element{float:left;width:100%;height:208px;margin-top:-202px;background:url('../images/mixtape.jpg') rgb(222, 222, 222);background-size:800px 576.5px;background-position:center top;box-shadow:0 2px 5px rgba(0, 0, 0, .5);opacity:0.49;}
+.playlist{position:relative;float:left;clear:both;z-index:5;width:100%;height:862px;margin-top:124px;background-color:rgb(101, 170, 224);}
 
-.playlist .text{float:left;clear:both;font-weight:400;}
+.playlist .element{float:left;width:100%;height:348px;background:url('../images/mixtape.jpg') rgb(222, 222, 222);background-repeat:no-repeat;background-size:801px 576.5px;background-position:center center;opacity:0.49;}
 
-.playyourmusic{position:relative;float:left;clear:both;z-index:18;width:64.5690104166%;height:373px;margin:-65px 0 0 12.63021%;}
+.playlist .text{clear:both;font-size:1em;font-weight:400;}
 
-.playyourmusic .text{float:left;}
+.playyourmusic{float:left;}
 
-.search{position:relative;float:left;clear:both;z-index:10;width:100%;height:478px;margin-top:402px;}
+.playyourmusic .playyourmusic{width:30.4503014781%;min-height:30px;margin:470px 0 0 36.39931%;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;font-size:1em;font-weight:700;line-height:1.38;text-align:center;color:rgb(0, 0, 0);}
 
-.search .element{float:left;width:100%;height:209px;background:url('../images/Old_skool.jpg') rgb(222, 222, 222);background-size:contain;background-position:left center;box-shadow:0 2px 5px rgba(0, 0, 0, .5);opacity:0.48;}
+.playyourmusic .playyourmusic:hover,.text-11:hover{border-width:1;}
 
-.text{font-size:1em;line-height:1.38;color:rgb(0, 0, 0);}
+.playyourmusic .text{clear:both;width:79.3333333333%;min-height:26px;margin-left:10%;font-size:1em;font-weight:400;}
 
-.text-10 p,.text-13 p{margin-bottom:1em;}
+.search{position:relative;float:left;clear:both;z-index:10;width:100%;height:797px;}
 
-.wrapper{visibility:hidden;position:relative;float:left;z-index:29;width:16.8055555555%;height:50px;margin:-190px 0 0 78.32986%;overflow:hidden;}
+.search .element{float:left;width:100%;height:442px;background:url('../images/Old_skool.jpg') rgb(222, 222, 222);background-size:contain;background-position:left center;box-shadow:0 2px 5px rgba(0, 0, 0, .5);opacity:0.75;}
 
-.element-1{position:relative;z-index:39;width:103.9627039627%;height:2px;margin:4px 0 0 -1.97434%;background-color:rgb(255, 32, 25);}
+.search .text{clear:both;margin-left:10%;font-size:1em;font-weight:400;}
 
-.element-2{width:103.9627039627%;height:2px;margin:1px 0 0 -1.97434%;background-color:rgb(255, 32, 25);}
+.search_text{position:absolute;top:535px;left:31.2881944444%;z-index:8;width:37.6666666666%;min-height:30px;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;font:100 1em/1.38 Roboto;text-align:center;color:rgb(0, 0, 0);}
 
-.element-3{margin:2150px 0 0 78.90095%;background-color:rgb(222, 222, 222);}
+.text{float:left;line-height:1.38;color:rgb(0, 0, 0);}
 
-.image-1{clear:both;z-index:25;width:720px;margin:-406px 0 0 -11.33681%;}
+.integration p,.text-6 p,.text-8 p{margin-bottom:1em;}
 
-.image-2{z-index:30;width:54px;margin:-211px 0 0 45%;}
+.title{position:absolute;top:194px;left:28.7777777777%;z-index:25;width:49.2222222222%;min-height:93px;font:700 1.5em/1.38 Raleway;text-align:center;color:rgb(0, 0, 0);}
+
+.trial{float:left;width:49.2222222222%;min-height:38px;margin:49px 0 0 28.77778%;font-size:1em;font-weight:400;line-height:1.38;text-align:center;color:rgb(0, 0, 0);}
+
+.element-2{position:absolute;top:0;left:0;z-index:22;width:100%;height:401px;background-image:url('../images/Concert-Crowd-shutterstock_126363107.jpg');background-size:cover;background-position:center bottom;opacity:0.75;}
+
+.element-3{position:relative;float:left;clear:both;z-index:20;width:3%;height:23px;margin:125px 0 0 11.10938%;background-image:url('../images/link.png');background-repeat:no-repeat;background-size:contain;background-position:center center;}
+
+.footer-1{position:fixed;bottom:0;left:-2%;z-index:36;width:102%;height:104px;padding:17px;border-top:1px solid rgb(0, 0, 0);background-color:rgba(101, 170, 224, 0.98);}
+
+.playyourmusic-1{position:relative;clear:both;z-index:17;width:100%;height:1314px;margin-top:5px;background-color:rgb(101, 170, 224);}
 
 .text-1{width:100.8158508158%;min-height:8px;margin:-12px 0 0 0.46133%;font-family:Roboto;font-weight:300;}
 
-.text-10{clear:both;width:87.0833333333%;min-height:59px;margin:65px 0 0 7.5%;padding:6px;}
+.text-10{width:73.5555555555%;min-height:49px;margin-top:28px;}
 
-.text-11{width:30.4503014781%;min-height:30px;margin:226px 0 0 35.56506%;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;font-weight:700;text-align:center;}
+.text-11{width:42.4444444444%;min-height:30px;margin:72px 0 0 35.55556%;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;text-align:center;}
 
-.text-12{clear:both;width:64.3677233739%;min-height:28px;margin:83px 0 0 32.40031%;font-weight:400;}
+.text-12{width:60.6666666666%;min-height:49px;margin:93px 0 0 10%;}
 
-.text-13{clear:both;width:115.8452313731%;min-height:26px;margin:18px 0 0 -4.07088%;font-weight:400;}
+.text-13{width:67.2222222222%;min-height:33px;margin:32px 0 0 10%;}
 
-.text-14{clear:both;width:64.3690834767%;min-height:28px;margin:49px 0 0 36.81267%;font-weight:400;}
+.text-14{width:66.1111111111%;min-height:76px;margin:46px 0 0 9.44271%;}
 
-.text-15{clear:both;width:56.9032258064%;min-height:23px;margin:19px 0 0 -4.07357%;font-weight:400;}
+.text-2{position:relative;clear:both;z-index:33;width:28.6713286713%;min-height:16px;margin:4px 0 0 0.91028%;font-weight:400;}
 
-.text-16{clear:both;width:61.1612903225%;min-height:23px;margin:20px 0 0 56.63736%;font-weight:400;}
+.text-3{position:relative;z-index:31;width:11.0722610722%;min-height:16px;margin:-1px 0 0 11.26273%;font-weight:400;text-align:center;}
 
-.text-17{clear:both;width:50.3225806451%;min-height:76px;margin:30px 0 0 6.45049%;font-weight:400;}
+.text-4{position:relative;z-index:32;width:13.2867132867%;min-height:16px;margin:-1px 0 0 25.42598%;font-weight:400;text-align:center;}
 
-.text-18{position:absolute;top:246px;left:31.9333333333%;z-index:7;width:37.6666666666%;min-height:30px;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;font-family:Roboto;font-weight:100;text-align:center;}
+.text-5{width:66.2222222222%;min-height:41px;margin:557px 0 0 17.77778%;font-size:1.75em;text-align:center;}
 
-.text-19{float:left;clear:both;width:46.3333333333%;min-height:49px;margin:114px 0 0 7%;font-weight:400;}
+.text-6{clear:both;width:80%;min-height:59px;margin:94px 0 0 10%;padding:6px;font-size:1em;}
 
-.text-2{position:relative;clear:both;z-index:37;width:28.6713286713%;min-height:16px;margin:4px 0 0 0.91028%;font-weight:400;}
+.text-7{margin-top:41px;}
 
-.text-20{float:left;clear:both;width:39%;min-height:40px;margin:20px 0 0 52.66667%;font-weight:400;}
+.text-8{margin-top:47px;}
 
-.text-21{width:26.3333333333%;min-height:30px;margin:42px 0 0 37.22222%;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;text-align:center;}
+.text-9{width:70.1111111111%;min-height:40px;margin-top:233px;}
 
-.text-11:hover,.text-21:hover{border-width:1;}
+.album_or_artist a,.key_words a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Raleway;font-style:normal;font-size:1.125em;font-weight:600;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
-.text-22{width:60.6666666666%;min-height:49px;margin:28px 0 0 7.33507%;}
+.integration span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Roboto;font-style:normal;font-size:0.75em;font-weight:100;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
-.text-23{width:44.8888888888%;min-height:33px;margin:10px 0 0 45%;}
+.link span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:1.067em;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
-.text-24{width:66.1111111111%;min-height:76px;margin:53px 0 0 16%;}
+.playyourmusic span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Montserrat;font-style:inherit;font-size:1.375em;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:#000000;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
-.text-3{position:relative;z-index:35;width:11.0722610722%;min-height:16px;margin:-1px 0 0 11.26273%;font-weight:400;text-align:center;}
-
-.text-4{position:relative;z-index:36;width:13.2867132867%;min-height:16px;margin:-1px 0 0 25.42598%;font-weight:400;text-align:center;}
-
-.text-5{z-index:27;width:40.5555555555%;min-height:93px;margin:-152px 0 0 28.9375%;text-align:center;}
-
-.text-6{z-index:28;width:32.5%;min-height:47px;margin:-94px 0 0 33.27431%;text-align:center;}
-
-.text-7{z-index:26;width:25.4166666666%;min-height:47px;margin:-71px 0 0 35.88542%;text-align:center;}
-
-.text-8{clear:both;z-index:31;width:87.0811631944%;min-height:38px;margin:-24px 0 0 23.77257%;}
-
-.text-9{width:41.5006510416%;min-height:41px;margin:63px 0 0 25.49132%;text-align:center;}
-
-.link span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:inherit;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+.search_text span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Raleway;font-style:inherit;font-size:1.375em;font-weight:600;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:#000000;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
 .text a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;letter-spacing:inherit;word-spacing:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
@@ -118,222 +116,146 @@ body{background-color:rgb(101, 170, 224);font:400 1em/1.38 Helvetica;color:rgb(0
 
 .text-1 span{font-family:inherit;font-style:inherit;font-size:0.875em;font-weight:inherit;text-transform:inherit;word-spacing:inherit;color:inherit;}
 
-.text-10 span{font-family:Roboto;font-style:normal;font-size:0.938em;font-weight:300;text-transform:none;word-spacing:0;color:#000000;}
+.text-10 a{font-family:Raleway;font-style:normal;font-size:1.125em;font-weight:500;text-transform:inherit;text-decoration:inherit;color:inherit;}
 
-.text-11 span{font-family:Roboto;font-style:inherit;font-size:inherit;font-weight:500;text-transform:inherit;word-spacing:inherit;color:#000000;}
+.text-11 span{font-family:Raleway;font-style:normal;font-size:1.375em;font-weight:700;text-transform:inherit;word-spacing:inherit;color:#000000;}
 
-.text-13 a{font-family:'Playfair Display';font-style:normal;font-size:1.125em;font-weight:inherit;text-transform:none;text-decoration:none;color:#000000;}
+.link span:hover,.playyourmusic span:hover,.text-11 span:hover,.text-4 span:hover{font-size:NaNem;}
 
-.text-12 a,.text-14 a{font-family:'Roboto Condensed';font-style:normal;font-size:inherit;font-weight:700;text-transform:inherit;text-decoration:inherit;color:inherit;}
+.text-12 span{font-family:Raleway;font-style:normal;font-size:1.125em;font-weight:500;text-transform:inherit;word-spacing:inherit;color:inherit;}
 
-.text-15 span{font-family:'Droid Serif';font-style:normal;font-size:0.938em;font-weight:inherit;text-transform:inherit;word-spacing:inherit;color:inherit;}
+.text-13 a{font-family:Raleway;font-style:normal;font-size:1.063em;font-weight:500;text-transform:inherit;text-decoration:inherit;color:inherit;}
 
-.text-16 span{font-family:'Droid Serif';font-style:normal;font-size:inherit;font-weight:inherit;text-transform:inherit;word-spacing:inherit;color:inherit;}
-
-.text-18 span{font-family:inherit;font-style:inherit;font-size:inherit;font-weight:500;text-transform:inherit;word-spacing:inherit;color:#000000;}
-
-.text-19 a{font-family:Roboto;font-style:normal;font-size:inherit;font-weight:300;text-transform:inherit;text-decoration:inherit;color:inherit;}
-
-.text-17 span,.text-20 span{font-family:'Droid Serif';font-style:normal;font-size:inherit;font-weight:700;text-transform:inherit;word-spacing:inherit;color:rgb(39, 39, 39);}
-
-.text-21 span{font-family:Roboto;font-style:normal;font-size:inherit;font-weight:inherit;text-transform:inherit;word-spacing:inherit;color:#000000;}
-
-.text-22 span{font-family:Roboto;font-style:normal;font-size:0.938em;font-weight:300;text-transform:inherit;word-spacing:inherit;color:inherit;}
-
-.text-23 a{font-family:'Droid Serif';font-style:normal;font-size:0.875em;font-weight:inherit;text-transform:inherit;text-decoration:inherit;color:inherit;}
-
-.text-24 span{font-family:'Droid Serif';font-style:normal;font-size:inherit;font-weight:inherit;text-transform:inherit;word-spacing:inherit;color:rgb(39, 39, 39);}
+.text-14 span,.text-9 span{font-family:Raleway;font-style:normal;font-size:1.125em;font-weight:500;text-transform:inherit;word-spacing:inherit;color:rgb(39, 39, 39);}
 
 .text-4 a{font-family:Roboto;font-style:normal;font-size:0.75em;font-weight:100;text-transform:inherit;text-decoration:inherit;color:inherit;}
 
 .text-4 a:hover{font-style:italic;font-size:NaNem;}
 
-.text-5 span{font-family:Roboto;font-style:normal;font-size:2.375em;font-weight:100;text-transform:inherit;word-spacing:inherit;color:inherit;}
+.text-2 span,.text-3 span,.text-4 span{font-family:Roboto;font-style:normal;font-size:0.75em;font-weight:100;text-transform:inherit;word-spacing:inherit;color:inherit;}
 
-.text-2 span,.text-3 span,.text-4 span,.text-6 span,.text-7 span{font-family:Roboto;font-style:normal;font-size:0.75em;font-weight:100;text-transform:inherit;word-spacing:inherit;color:inherit;}
+.text-5 span{font-family:Montserrat;font-style:inherit;font-size:inherit;font-weight:inherit;text-transform:inherit;word-spacing:inherit;color:inherit;}
 
-.text-8 a{font-family:Roboto;font-style:normal;font-size:0.75em;font-weight:300;text-transform:inherit;text-decoration:inherit;color:inherit;}
+.text-6 span{font-family:Roboto;font-style:normal;font-size:0.938em;font-weight:300;text-transform:none;word-spacing:0;color:#000000;}
 
-.text-9 span{font-family:Roboto;font-style:normal;font-size:inherit;font-weight:inherit;text-transform:inherit;word-spacing:inherit;color:inherit;}
+.text-7 a,.text-8 a{font-family:Raleway;font-style:normal;font-size:1.125em;font-weight:inherit;text-transform:none;text-decoration:none;color:#000000;}
 
-@media(max-width: 716px) {
-.houseband{top:82px;left:10%;width:80.0279329608%;height:130px;}
+.title span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:2.125em;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
-.houseband .header{position:relative;z-index:24;margin-top:-155px;margin-left:-12.7972300001%;}
+.trial a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Roboto;font-style:normal;font-size:0.75em;font-weight:300;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
 
-.houseband .image{position:relative;height:auto;}
+@media(max-width: 670px) {
+.footer{width:100%;height:127px;}
 
-.houseband .text{position:relative;}
+.footer .footer{position:relative;z-index:35;}
 
-.houseband .wrapper{position:relative;z-index:29;margin-top:114px;margin-left:37.88449%;}
+.houseband .element{position:relative;z-index:24;width:60.5970149253%;height:215px;margin-top:11px;background-size:contain;}
 
-.justask{position:relative;z-index:23;height:609px;margin-top:218px;}
+.houseband .integration{position:relative;z-index:27;margin-top:88px;margin-left:39.64319%;}
 
-.justask .element{top:395px;height:155px;}
+.houseband .logo{top:207px;right:41.0447761194%;width:46px;height:auto;}
 
-.justask .link{width:77.6536312849%;margin-top:31px;margin-left:9.91402%;text-align:center;}
+.houseband .title{top:114px;left:23.5820895522%;width:66.5671641791%;}
 
-.playlist{position:relative;z-index:5;height:481px;margin-top:110px;}
+.houseband .trial{clear:both;width:90%;margin-top:81px;margin-left:10%;}
 
-.playlist .element{height:187px;margin-top:-9px;}
+.justask{position:relative;z-index:23;}
 
-.playyourmusic{position:relative;z-index:18;width:100%;height:618px;margin-top:-55px;margin-left:0;}
+.justask .link{position:relative;z-index:19;}
 
-.search{position:relative;z-index:10;margin-top:-54px;}
+.playlist{position:relative;z-index:5;}
 
-.search .element{margin-top:13px;}
+.search{position:relative;z-index:10;}
 
-.footer .element-1{position:relative;z-index:39;margin-left:-1.97469%;}
+.footer .text-2{position:relative;z-index:33;}
 
-.footer .element-2{margin-left:-1.97469%;}
+.footer .text-3{position:relative;z-index:31;}
 
-.footer .element-3{margin-left:78.90001%;}
+.footer .text-4{position:relative;z-index:32;}
 
-.footer .text-1{margin-left:0.45104%;}
+.justask .element-3{position:relative;z-index:20;}
 
-.footer .text-2{position:relative;z-index:37;margin-left:0.90881%;}
+.playyourmusic-1{position:relative;z-index:17;}
 
-.footer .text-3{position:relative;z-index:35;margin-left:11.26021%;}
+.link span{font-size:1.067em;}
 
-.footer .text-4{position:relative;z-index:36;margin-left:25.42411%;}
-
-.houseband .image-1{z-index:25;margin-top:-465px;margin-left:-25.7608%;}
-
-.houseband .image-2{z-index:30;margin-top:-215px;margin-left:48.91198%;}
-
-.houseband .text-5{z-index:27;width:79.5811518324%;margin-top:-151px;margin-left:20.41885%;}
-
-.houseband .text-6{clear:both;z-index:28;width:68.9354275741%;margin-top:-243px;margin-left:24.50371%;}
-
-.houseband .text-7{z-index:26;width:73.2984293193%;margin-top:-224px;margin-left:21.71139%;}
-
-.houseband .text-8{z-index:31;width:100%;margin-top:-188px;margin-left:-0.09817%;text-align:center;}
-
-.justask .text-10{width:82.5418994413%;margin-top:63px;margin-left:7.45461%;}
-
-.justask .text-9{width:79.6089385474%;margin-top:50px;margin-left:10.05587%;}
-
-.playlist .text-21{margin-top:45px;margin-left:37.19885%;}
-
-.playlist .text-22{width:54.6089385474%;margin-top:249px;margin-left:11.45251%;}
-
-.playlist .text-23{margin-top:-250px;margin-left:12.7095%;}
-
-.playlist .text-24{clear:none;width:66.6201117318%;min-height:50px;margin-top:-137px;margin-left:28.07263%;}
-
-.playyourmusic .text-11{margin-top:55px;margin-left:36.39796%;}
-
-.playyourmusic .text-12{width:64.3639313235%;margin-top:32px;margin-left:15.19946%;}
-
-.playyourmusic .text-13{width:90.2234636871%;margin-top:24px;margin-left:2.93078%;}
-
-.playyourmusic .text-14{margin-top:53px;margin-left:25.62849%;}
-
-.playyourmusic .text-15{margin-top:29px;margin-left:5.89211%;}
-
-.playyourmusic .text-16{width:50.8379888268%;margin-top:36px;margin-left:39.1607%;}
-
-.playyourmusic .text-17{width:66.2011173184%;margin-top:34px;margin-left:3.35196%;}
-
-.search .text-18{top:275px;left:20.120670391%;width:50.2793296089%;}
-
-.search .text-19{width:44.2737430167%;margin-top:234px;margin-left:10%;}
-
-.search .text-20{width:326.0229132569%;margin-top:-126px;margin-left:31.88286%;}
+.playyourmusic span,.text-11 span{font-size:1.375em;}
 
 .text-4 a,.text-4 span{font-size:0.75em;}
+
+.title span{font-size:1.583em;}
 }
 
-@media(max-width: 550px) {
+@media(max-width: 350px) {
 body{font-size:1em;}
 
-.footer{bottom:24px;left:-0.9914772728%;width:102.0930232558%;}
+.footer{position:absolute;}
 
-.houseband{top:128px;width:80%;height:67px;}
+.footer .element{margin-left:-1.96796%;}
 
-.houseband .header{position:relative;z-index:24;margin-top:-226px;margin-left:-12.78054%;}
+.footer .footer{position:relative;z-index:35;margin-left:-1.96796%;}
 
-.houseband .image{position:relative;height:auto;}
+.houseband{top:0;height:477px;}
 
-.houseband .text{position:relative;}
+.houseband .element{position:relative;z-index:24;height:287px;margin-top:16px;margin-left:0.57143%;background-image:none;}
 
-.houseband .wrapper{position:relative;z-index:29;margin-top:23px;margin-left:35.61435%;}
+.houseband .integration{position:relative;z-index:27;width:86.8%;margin-top:-63px;margin-left:10%;}
 
-.justask{position:relative;z-index:23;margin-top:463px;margin-left:9.9971599999%;}
+.houseband .logo{top:97px;right:43.2%;width:38px;height:auto;}
 
-.justask .element{top:273px;left:-10.9261363637%;width:100.9289772727%;height:95px;}
+.houseband .title{top:162px;left:0;right:0;width:85%;margin-right:auto;margin-left:auto;}
 
-.justask .link{clear:none;margin-top:-109px;margin-left:7.49148%;}
+.houseband .trial{clear:none;width:80%;margin-top:125px;}
 
-.playlist{position:relative;z-index:5;margin-top:610px;margin-left:37.19318%;}
+.justask{position:relative;z-index:23;width:100.5714285714%;height:1099px;margin-top:477px;margin-left:-0.57143%;}
 
-.playlist .element{position:relative;z-index:4;height:93px;margin-top:215px;margin-left:-37.19318%;}
+.justask .link{position:relative;z-index:19;margin-left:1.09197%;font-size:0.25em;text-align:center;}
 
-.playyourmusic{position:relative;z-index:18;margin-top:-46px;margin-left:18.62784%;}
+.playlist{position:relative;z-index:5;height:1088px;}
 
-.search{position:relative;z-index:10;margin-top:272px;margin-left:37.19318%;}
+.playyourmusic .collage{height:311px;}
 
-.search .element{position:relative;z-index:9;width:100.9914772727%;height:120px;margin-top:468px;margin-left:-37.19318%;}
+.playyourmusic .playyourmusic{width:82%;margin-left:36.39286%;}
 
-.footer .element-1{position:relative;z-index:39;margin-left:-1.97275%;}
+.search{position:relative;z-index:10;height:683px;}
 
-.footer .element-2{margin-left:-1.97275%;}
+.search .element{height:295px;}
 
-.footer .element-3{margin-left:78.8981%;}
+.search .search_text{top:344px;left:10%;width:80%;}
 
-.footer .text-1{margin-left:0.45024%;}
+.footer .text-1{margin-left:0.45985%;}
 
-.footer .text-2{position:relative;z-index:37;margin-left:0.9064%;}
+.footer .text-2{position:relative;z-index:33;width:94.5701357466%;margin-left:0.90487%;text-align:center;}
 
-.footer .text-3{position:relative;z-index:35;margin-left:11.2588899999%;}
+.footer .text-3{position:relative;clear:both;z-index:31;width:98.1900452488%;margin-left:11.25396%;}
 
-.footer .text-4{position:relative;z-index:36;margin-left:25.42358%;}
+.footer .text-4{position:relative;clear:both;z-index:32;width:94.5701357466%;margin-left:25.42524%;}
 
-.houseband .image-1{z-index:25;width:370px;margin-top:-303px;margin-left:-14.96804%;}
+.footer-1{bottom:151px;height:539px;}
 
-.houseband .image-2{z-index:30;width:34px;margin-left:48.9098%;}
+.justask .element-2{left:-4.0816326531%;width:104.081632653%;height:351px;}
 
-.houseband .text-5{z-index:27;margin-left:20.40838%;}
+.justask .element-3{position:relative;z-index:20;width:7.3469387755%;height:25px;margin-left:11.10618%;}
 
-.houseband .text-6{z-index:28;margin-top:-152px;margin-left:24.50284%;}
+.justask .text-5{margin-left:17.77344%;}
 
-.houseband .text-7{z-index:26;margin-top:-133px;margin-left:21.7081%;}
+.justask .text-6{margin-left:9.99645%;}
 
-.houseband .text-8{z-index:31;width:115.0796894156%;margin-top:-97px;margin-left:-0.09233%;}
+.playlist .text-11{width:80%;margin-left:35.54911%;}
 
-.justask .text-10{clear:none;margin-top:-27px;margin-left:6.49716%;}
+.playlist .text-12{width:79.6%;}
 
-.justask .text-9{margin-top:-174px;margin-left:15%;}
+.playlist .text-14{margin-left:9.4375%;}
 
-.playlist .text-21{width:206.1807580174%;margin-top:-295px;margin-left:3.74716%;}
+.playyourmusic-1{position:relative;z-index:17;height:921px;}
 
-.playlist .text-22{position:relative;z-index:2;width:293.8775510204%;margin-top:-208px;margin-left:-103.30682%;}
+.key_words a,.text-6 span{font-size:0.75em;}
 
-.playlist .text-23{position:relative;z-index:3;width:306.9387755102%;margin-top:-160px;margin-left:63.82955%;}
+.link span{font-size:0.733em;}
 
-.playlist .text-24{position:relative;clear:both;z-index:1;width:259.358600583%;margin-top:-78px;margin-left:-71.29261%;}
+.text-10 a,.text-12 span,.text-13 a,.text-14 span,.text-7 a,.text-8 a{font-size:0.813em;}
 
-.playyourmusic .text-11{margin-top:125px;margin-left:36.80398%;}
+.album_or_artist a,.text-9 span{font-size:0.938em;}
 
-.playyourmusic .text-12{margin-top:29px;margin-left:14.5625%;}
-
-.playyourmusic .text-13{margin-top:40px;margin-left:-13.3608%;}
-
-.playyourmusic .text-14{margin-top:55px;margin-left:25.05966%;}
-
-.playyourmusic .text-15{width:88.6750697584%;margin-top:40px;margin-left:-13.34375%;}
-
-.playyourmusic .text-16{margin-top:32px;margin-left:28.75284%;}
-
-.playyourmusic .text-17{margin-top:46px;margin-left:-13.34375%;}
-
-.search .text-18{top:245px;left:-56.4319536706%;}
-
-.search .text-19{margin-top:-169px;margin-left:-127.48295%;}
-
-.search .text-20{position:relative;z-index:6;margin-top:-93px;margin-left:31.88068%;}
-
-.text-13 a{font-size:0.875em;}
-
-.text-8 a{font-size:0.625em;}
+.title span{font-size:1.375em;}
 }
