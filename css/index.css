@@ -1,0 +1,227 @@
+body{background-color:rgb(255, 255, 255);font:400 1em/1.38 Helvetica;color:rgb(0, 0, 0);}
+
+.album_or_artist{float:left;clear:both;width:64.3690834767%;min-height:28px;margin:58px 0 0 10%;font-size:1em;font-weight:400;line-height:1.38;color:rgb(0, 0, 0);}
+
+.collage{position:absolute;top:0;left:0;z-index:15;width:100%;height:404px;border:2px solid rgb(0, 0, 0);background:url('../images/albums.jpg') rgb(222, 222, 222);background-size:1280px 853.5px;background-position:left top;opacity:0.75;}
+
+.element{width:100%;}
+
+.houseband{position:absolute;top:-6px;left:0;z-index:29;width:100%;height:486px;border-bottom:1px solid rgb(38, 121, 185);background-color:rgb(101, 170, 224);}
+
+.houseband .element{position:relative;float:left;z-index:24;height:337px;margin-top:45px;background:url('../images/blueechoimage.jpg') rgb(101, 170, 224);background-repeat:no-repeat;background-size:480px 270px;background-position:left center;}
+
+.integration{position:relative;float:left;clear:both;z-index:27;width:31.5555555555%;height:38px;margin:-38px 0 0 33.88889%;font-size:1em;font-weight:400;text-align:center;color:rgb(0, 0, 0);}
+
+.justask{position:relative;float:left;z-index:23;width:100%;height:1101px;margin-top:475px;background-color:rgb(255, 255, 255);}
+
+.justask .element{position:absolute;top:0;left:0;z-index:22;height:401px;background:url('../images/Concert-Crowd-shutterstock_126363107.jpg') rgb(222, 222, 222);background-size:cover;background-position:center bottom;opacity:0.75;}
+
+.key_words{float:left;clear:both;width:80%;min-height:28px;margin:102px 0 0 10%;font-size:1em;font-weight:400;line-height:1.38;color:rgb(0, 0, 0);}
+
+.link{display:block;float:left;clear:both;width:80%;min-height:21px;margin:118px 0 0 10%;font:500 0.938em/1.38 Raleway;text-align:center;text-transform:uppercase;color:rgb(20, 66, 101);}
+
+.link:hover{font-style:italic;}
+
+.logo{display:block;position:absolute;top:115px;right:45.8888888888%;z-index:28;width:57px;height:auto;overflow:hidden;}
+
+.playlist{float:left;clear:both;width:100%;height:862px;margin-top:124px;background-color:rgb(101, 170, 224);}
+
+.playlist .element{float:left;height:348px;background:url('../images/mixtape.jpg') rgb(222, 222, 222);background-repeat:no-repeat;background-size:801px 576.5px;background-position:center center;opacity:0.49;}
+
+.playlist .text{clear:both;font-size:1em;}
+
+.playyourmusic{float:left;}
+
+.playyourmusic .playyourmusic{width:30.4503014781%;min-height:30px;margin:470px 0 0 36.39931%;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;font-size:1em;font-weight:700;line-height:1.38;text-align:center;color:rgb(0, 0, 0);}
+
+.playyourmusic .playyourmusic:hover,.text-6:hover{border-width:1;}
+
+.playyourmusic .text{clear:both;width:79.3333333333%;min-height:26px;margin-left:10%;font-size:1em;}
+
+.search{position:relative;float:left;clear:both;width:100%;height:797px;}
+
+.search .element{float:left;height:442px;background:url('../images/Old_skool.jpg') rgb(222, 222, 222);background-size:contain;background-position:left center;box-shadow:0 2px 5px rgba(0, 0, 0, .5);opacity:0.75;}
+
+.search .text{clear:both;margin-left:10%;font-size:1em;}
+
+.search_text{position:absolute;top:535px;left:31.2881944444%;z-index:8;width:37.6666666666%;min-height:30px;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;font:100 1em/1.38 Roboto;text-align:center;color:rgb(0, 0, 0);}
+
+.text{float:left;font-weight:400;line-height:1.38;color:rgb(0, 0, 0);}
+
+.integration p,.text-2 p,.text-5 p{margin-bottom:1em;}
+
+.title{position:absolute;top:194px;left:28.7777777777%;z-index:25;width:49.2222222222%;min-height:93px;font:700 1.5em/1.38 Raleway;text-align:center;color:rgb(0, 0, 0);}
+
+.trial{float:left;width:49.2222222222%;min-height:38px;margin:49px 0 0 28.77778%;font-size:1em;font-weight:400;line-height:1.38;text-align:center;color:rgb(0, 0, 0);}
+
+.playyourmusic-1{position:relative;clear:both;width:100%;height:1314px;margin-top:5px;background-color:rgb(101, 170, 224);}
+
+.text-1{width:66.2222222222%;min-height:41px;margin:557px 0 0 17.77778%;font-size:1.75em;text-align:center;}
+
+.text-10{width:70.1111111111%;min-height:40px;margin-top:233px;}
+
+.text-11{width:73.5555555555%;min-height:49px;margin-top:28px;}
+
+.text-2{clear:both;width:80%;min-height:59px;margin:116px 0 0 10%;padding:6px;font-size:1em;}
+
+.text-3{margin-top:15px;}
+
+.text-4{margin-top:41px;}
+
+.text-5{margin-top:47px;}
+
+.text-6{width:42.4444444444%;min-height:30px;margin:72px 0 0 35.55556%;padding:6px;border:1px solid rgb(38, 121, 185);border-radius:62px;text-align:center;}
+
+.text-7{width:60.6666666666%;min-height:49px;margin:93px 0 0 10%;}
+
+.text-8{width:67.2222222222%;min-height:33px;margin:32px 0 0 10%;}
+
+.text-9{width:66.1111111111%;min-height:76px;margin:46px 0 0 9.44271%;}
+
+.album_or_artist a,.key_words a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Raleway;font-style:normal;font-size:1.125em;font-weight:600;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.integration span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Roboto;font-style:normal;font-size:0.75em;font-weight:100;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.link span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:1.333em;font-weight:300;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.playyourmusic span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Montserrat;font-style:inherit;font-size:1.375em;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:#000000;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.search_text span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Raleway;font-style:inherit;font-size:1.375em;font-weight:600;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:#000000;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.text a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Raleway;font-style:normal;letter-spacing:inherit;word-spacing:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.text span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;text-decoration:inherit;letter-spacing:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.text-1 span{font-family:Montserrat;font-style:inherit;font-size:inherit;font-weight:inherit;text-transform:inherit;word-spacing:inherit;color:inherit;}
+
+.text-10 span,.text-9 span{font-family:Raleway;font-style:normal;font-size:1.125em;font-weight:500;text-transform:inherit;word-spacing:inherit;color:rgb(39, 39, 39);}
+
+.text-11 a{font-size:1.125em;font-weight:500;text-transform:inherit;text-decoration:inherit;color:inherit;}
+
+.text-2 span{font-family:Roboto;font-style:normal;font-size:0.938em;font-weight:300;text-transform:none;word-spacing:0;color:#000000;}
+
+.text-3 a,.text-4 a,.text-5 a{font-size:1.125em;font-weight:inherit;text-transform:none;text-decoration:none;color:#000000;}
+
+.text-6 span{font-family:Raleway;font-style:normal;font-size:1.375em;font-weight:700;text-transform:inherit;word-spacing:inherit;color:#000000;}
+
+.link span:hover,.playyourmusic span:hover,.text-6 span:hover{font-size:NaNem;}
+
+.text-7 span{font-family:Raleway;font-style:normal;font-size:1.125em;font-weight:500;text-transform:inherit;word-spacing:inherit;color:inherit;}
+
+.text-8 a{font-size:1.063em;font-weight:500;text-transform:inherit;text-decoration:inherit;color:inherit;}
+
+.title span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:2.5em;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.trial a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:Roboto;font-style:normal;font-size:0.75em;font-weight:300;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+@media(max-width: 670px) {
+.houseband .element{position:relative;z-index:24;width:60.5970149253%;height:215px;margin-top:11px;background-size:contain;}
+
+.houseband .integration{position:relative;z-index:27;width:62.6865671641%;margin-top:88px;margin-left:22.08955%;}
+
+.houseband .logo{top:207px;right:41.0447761194%;width:46px;height:auto;}
+
+.houseband .title{top:114px;left:23.5820895522%;width:66.5671641791%;}
+
+.houseband .trial{clear:both;width:90%;margin-top:81px;margin-left:10%;}
+
+.justask{position:relative;z-index:23;}
+
+.justask .link{margin-top:117px;margin-left:15.20056%;}
+
+.playyourmusic .album_or_artist{margin-top:73px;}
+
+.playyourmusic .playyourmusic{width:69.5522388059%;margin-left:15.22155%;}
+
+.search .element{height:422px;}
+
+.search .search_text{left:15.223880597%;width:69.5522388059%;}
+
+.justask .text-1{margin-left:17.77752%;}
+
+.justask .text-2{margin-top:94px;}
+
+.playlist .text-6{width:69.5522388059%;margin-left:15.22388%;}
+
+.playlist .text-7{margin-top:123px;}
+
+.playlist .text-9{margin-left:9.4403%;}
+
+.playyourmusic .text-3{margin-top:33px;}
+
+.playyourmusic .text-4{margin-top:37px;}
+
+.playyourmusic .text-5{margin-top:48px;}
+
+.link span{font-size:1.333em;}
+
+.playyourmusic span,.text-6 span{font-size:1.375em;}
+
+.title span{font-size:1.583em;}
+}
+
+@media(max-width: 400px) {
+body{font-size:1em;}
+
+.houseband{top:0;height:477px;}
+
+.houseband .element{position:relative;z-index:24;height:287px;margin-top:16px;margin-left:0.57143%;background-image:none;}
+
+.houseband .integration{position:relative;z-index:27;width:86.8%;margin-top:-63px;margin-left:10%;}
+
+.houseband .logo{top:97px;right:43.2%;width:38px;height:auto;}
+
+.houseband .title{top:162px;left:0;right:0;width:85%;margin-right:auto;margin-left:auto;}
+
+.houseband .trial{clear:none;width:80%;margin-top:125px;}
+
+.justask{position:relative;z-index:23;width:100.5714285714%;height:1099px;}
+
+.justask .element{left:-4.0816326531%;width:104.081632653%;height:351px;}
+
+.justask .link{margin-top:84px;margin-left:9.94329%;font-size:0.25em;}
+
+.playlist{position:relative;z-index:5;height:1088px;margin-top:-40px;}
+
+.playyourmusic .album_or_artist{position:relative;z-index:13;margin-top:-114px;}
+
+.playyourmusic .collage{height:311px;}
+
+.playyourmusic .key_words{margin-top:31px;}
+
+.playyourmusic .playyourmusic{width:82%;margin-left:15.21875%;}
+
+.search{height:744px;margin-left:1.25%;}
+
+.search .element{height:295px;margin-left:-1.25%;}
+
+.search .search_text{top:337px;left:10%;width:80%;}
+
+.justask .text-2{margin-top:142px;margin-left:9.99767%;}
+
+.playlist .text-6{width:80%;margin-top:74px;margin-left:10%;}
+
+.playlist .text-7{width:79.6%;margin-top:91px;}
+
+.playlist .text-9{margin-left:9.4375%;}
+
+.playyourmusic .text-3{margin-top:34px;}
+
+.playyourmusic .text-4{position:relative;z-index:12;margin-top:107px;}
+
+.playyourmusic .text-5{clear:none;margin-top:1px;}
+
+.playyourmusic-1{position:relative;z-index:18;height:1082px;}
+
+.search .text-10{margin-top:360px;}
+
+.key_words a,.text-2 span{font-size:0.75em;}
+
+.link span{font-size:0.867em;}
+
+.text a,.text-7 span,.text-9 span{font-size:0.813em;}
+
+.album_or_artist a,.text-10 span{font-size:0.938em;}
+
+.title span{font-size:1.375em;}
+}
